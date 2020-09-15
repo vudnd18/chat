@@ -1,0 +1,39 @@
+{
+  "name": "bot-nodejs",
+  "version": "1.0.0",
+  "description": "Demonstrate the core capabilities of the Microsoft Bot Framework",
+  "author": "Generated using Microsoft Bot Builder Yeoman generator v4.10.1",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "lint": "tslint -c tslint.json 'src/**/*.ts'",
+    "postinstall": "npm run build && node ./deploymentScripts/webConfigPrep.js",
+    "start": "tsc --build && node ./lib/index.js",
+    "test": "tsc --build && nyc mocha lib/tests/**/*.test.js",
+    "watch": "nodemon --watch ./src -e ts --exec \"npm run start\""
+  },
+  "dependencies": {
+    "@microsoft/recognizers-text-data-types-timex-expression": "1.1.4",
+    "botbuilder": "~4.10.1",
+    "botbuilder-ai": "~4.10.1",
+    "botbuilder-dialogs": "~4.10.1",
+    "botbuilder-testing": "~4.10.1",
+    "dotenv": "^8.2.0",
+    "replace": "~1.2.0",
+    "restify": "~8.5.1"
+  },
+  "devDependencies": {
+    "@types/restify": "8.4.2",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
+    "@typescript-eslint/parser": "^2.34.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "nodemon": "~2.0.4",
+    "ts-node": "^8.10.1",
+    "tslint": "^6.1.3",
+    "tslint-microsoft-contrib": "^6.2.0",
+    "typescript": "~3.9.2"
+  }
+}

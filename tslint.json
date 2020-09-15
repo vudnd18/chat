@@ -1,0 +1,30 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "tslint-microsoft-contrib"
+    ],
+    "jsRules": {},
+    "rules": {
+        "interface-name" : [true, "never-prefix"],
+        "max-line-length": [false],
+        "no-console": [false, "log", "error"],
+        "no-var-requires": false,
+        "quotemark": [true, "double"],
+        "one-variable-per-declaration": false,
+        "curly": [true, "ignore-same-line"],
+        "trailing-comma": [true, {"multiline": "never", "singleline": "never"}],
+        "ordered-imports": false,
+        "typedef": false,
+        "no-unused-variable": true,
+        "no-default-export": true,
+        "no-implicit-dependencies": [true],
+        "no-submodule-imports": false,
+        "no-relative-imports": false,
+        "export-name": false,
+        "completed-docs": false,
+        "no-import-side-effect": [true, { "ignore-module": "(\\.css)$" }],
+        "switch-final-break": false,
+        "newline-before-return": false
+    }
+}
