@@ -9,7 +9,7 @@
     "build": "node ./lib/index.js",
     "lint": "tslint -c tslint.json 'src/**/*.ts'",
     "postinstall": "npm run build && node ./deploymentScripts/webConfigPrep.js",
-    "start": "node ./lib/index.js",
+    "start": "tsc --build && node ./lib/index.js",
     "test": "tsc --build && nyc mocha lib/tests/**/*.test.js",
     "watch": "nodemon --watch ./src -e ts --exec \"npm run start\""
   },
@@ -34,8 +34,11 @@
   },
   "dependencies": {
     "@microsoft/recognizers-text-data-types-timex-expression": "1.1.4",
+    "axios": "^0.20.0",
     "botbuilder": "~4.10.1",
+    "botbuilder-adapter-facebook": "^1.0.11",
     "botbuilder-ai": "~4.10.1",
+    "botbuilder-azure": "^4.10.3",
     "botbuilder-dialogs": "~4.10.1",
     "botbuilder-testing": "~4.10.1",
     "dotenv": "^8.2.0",

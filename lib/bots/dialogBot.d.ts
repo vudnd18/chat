@@ -1,12 +1,9 @@
-import { BotState, StatePropertyAccessor, TurnContext } from "botbuilder";
-import { QnAMaker } from "botbuilder-ai";
-import { Dialog, DialogState } from "botbuilder-dialogs";
-export declare class DialogBot {
+import { ActivityHandler, BotState } from "botbuilder";
+import { Dialog } from "botbuilder-dialogs";
+export declare class DialogBot extends ActivityHandler {
     private conversationState;
     private userState;
     private dialog;
     private dialogState;
-    private qnaMaker;
-    constructor(conversationState: BotState, userState: BotState, dialog: Dialog, qnaMaker: QnAMaker);
-    onTurn(context: TurnContext, accessor: StatePropertyAccessor<DialogState>): Promise<void>;
+    constructor(conversationState: BotState, userState: BotState, dialog: Dialog);
 }

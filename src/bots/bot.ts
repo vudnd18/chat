@@ -66,9 +66,9 @@ export class ConfBot {
         async (step: WaterfallStepContext): Promise<DialogTurnResult> => {
           switch (step.result.index) {
             case 0:
-              const card = bookingCard();
+              // const card = bookingCard();
               await step.context.sendActivity({
-                attachments: [card]
+                // attachments: [card]
               });
               break;
             case 1:

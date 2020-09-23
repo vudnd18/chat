@@ -771,7 +771,7 @@
         "signature": "888eabbf43a9595dd96f6ded60597ee6c05660f8cb90d95bc91d00e46855a52a",
         "affectsGlobalScope": false
       },
-      "../node_modules/axios/index.d.ts": {
+      "../node_modules/@azure/ms-rest-js/node_modules/axios/index.d.ts": {
         "version": "e7df7eb51c5090db4bdcdbf9efe053530dff0e33796f40b08b1a3be6c3a351d0",
         "signature": "e7df7eb51c5090db4bdcdbf9efe053530dff0e33796f40b08b1a3be6c3a351d0",
         "affectsGlobalScope": false
@@ -1906,34 +1906,159 @@
         "signature": "f2d9a1f8c27bdb32021b20fe76f734905570ed52032761abce18162a7750a777",
         "affectsGlobalScope": false
       },
-      "../src/bots/dialogbot.ts": {
-        "version": "006a2896b43c4c9062ec2d34f7cb06faa726f01aa29fe3246ec7232901aa24e1",
-        "signature": "19dae9e5fab6f0b6162dde2630d7ae3b29b396160dd2341fdfe7c8497b7652b8",
+      "../node_modules/@types/documentdb/index.d.ts": {
+        "version": "bee2a997b442fc0d6857c5514a0eb4a0baffdde0f53d4366c6643ec0892d2f04",
+        "signature": "bee2a997b442fc0d6857c5514a0eb4a0baffdde0f53d4366c6643ec0892d2f04",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-azure/lib/cosmosdbstorage.d.ts": {
+        "version": "234cf16aab5fcca8fdf4bd1b3e0255a544961774c9836e999dd018edac466f19",
+        "signature": "234cf16aab5fcca8fdf4bd1b3e0255a544961774c9836e999dd018edac466f19",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@azure/cosmos/dist/types/latest/index.d.ts": {
+        "version": "480915973053a25d3f3e1fc34e722e0bad4ad478271042b65bbd4aeb2e763454",
+        "signature": "480915973053a25d3f3e1fc34e722e0bad4ad478271042b65bbd4aeb2e763454",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-azure/lib/cosmosdbpartitionedstorage.d.ts": {
+        "version": "7dd13648837e5ebd96b6a9da0fac8b8597ad31e3a0aa400bec8dfed5dae5914e",
+        "signature": "7dd13648837e5ebd96b6a9da0fac8b8597ad31e3a0aa400bec8dfed5dae5914e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-azure/lib/blobstorage.d.ts": {
+        "version": "45eb007ccbafe97cf85940bdee32400e3b5be19e9a8523898d457b664ee67895",
+        "signature": "45eb007ccbafe97cf85940bdee32400e3b5be19e9a8523898d457b664ee67895",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-azure/lib/azureblobtranscriptstore.d.ts": {
+        "version": "4ce406adfd1181439cb68837e8ad4092d1f94b0adc2595db5323b0bd80cad44b",
+        "signature": "4ce406adfd1181439cb68837e8ad4092d1f94b0adc2595db5323b0bd80cad44b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-azure/lib/cosmosdbkeyescape.d.ts": {
+        "version": "883540b752c2038ddd8b6fb7edc99f896e9c12954861f8af259360469ba6fd9e",
+        "signature": "883540b752c2038ddd8b6fb7edc99f896e9c12954861f8af259360469ba6fd9e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-azure/lib/index.d.ts": {
+        "version": "63a32d9d63ee45582153b7b390e2d7950c6494aeaaa00623aed78a960eca2066",
+        "signature": "63a32d9d63ee45582153b7b390e2d7950c6494aeaaa00623aed78a960eca2066",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botkit/lib/botworker.d.ts": {
+        "version": "177cf708786488276bd50f4d1ceaee1958108cdad17104d311d9cf57ca797da3",
+        "signature": "177cf708786488276bd50f4d1ceaee1958108cdad17104d311d9cf57ca797da3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botkit/lib/core.d.ts": {
+        "version": "07f49c39ed7ad97b532b1e8f3a0a1676552608e05878267cd47cd7fc8d8997a6",
+        "signature": "07f49c39ed7ad97b532b1e8f3a0a1676552608e05878267cd47cd7fc8d8997a6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botkit/lib/dialogwrapper.d.ts": {
+        "version": "45c91491e7a04e071e7e717f5f6b087cbd7ef1ff595ebe29b967dc59b4c49d98",
+        "signature": "45c91491e7a04e071e7e717f5f6b087cbd7ef1ff595ebe29b967dc59b4c49d98",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botkit/lib/conversation.d.ts": {
+        "version": "cd1f068aa14bfcf50ca1cd799fbd7e8a13868aa1fdedfae87c004205df8a5181",
+        "signature": "cd1f068aa14bfcf50ca1cd799fbd7e8a13868aa1fdedfae87c004205df8a5181",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botkit/lib/teamshelpers.d.ts": {
+        "version": "a8b4b1f86ab0b21e090612cc58d61726815967052b3ba95c97b07cdd0c399151",
+        "signature": "a8b4b1f86ab0b21e090612cc58d61726815967052b3ba95c97b07cdd0c399151",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botkit/lib/testclient.d.ts": {
+        "version": "55c4993a8dae6dce5d8cd2378fecdbf0e2f3a8bab689f57d65cb27a76200d968",
+        "signature": "55c4993a8dae6dce5d8cd2378fecdbf0e2f3a8bab689f57d65cb27a76200d968",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botkit/lib/index.d.ts": {
+        "version": "59a0dd00ef1c2c961ba4f282754fd5f6a9cd9d65525fd9881add9b84d14f7620",
+        "signature": "59a0dd00ef1c2c961ba4f282754fd5f6a9cd9d65525fd9881add9b84d14f7620",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts": {
+        "version": "e18113d41c6442a6b24a2f80d156c9b6b03d8b87d8e2162dcc8c6ed32f31a913",
+        "signature": "e18113d41c6442a6b24a2f80d156c9b6b03d8b87d8e2162dcc8c6ed32f31a913",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts": {
+        "version": "78b0c9b415f9230867a2153e628b65b1fd75f8eed7615016b304bb2206f46bb8",
+        "signature": "78b0c9b415f9230867a2153e628b65b1fd75f8eed7615016b304bb2206f46bb8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_adapter.d.ts": {
+        "version": "96a1e152238438f6fd4dfc8b6624504d2b5ef92cc32359e7aa68f5ca41a99d96",
+        "signature": "96a1e152238438f6fd4dfc8b6624504d2b5ef92cc32359e7aa68f5ca41a99d96",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_event_middleware.d.ts": {
+        "version": "efc36e841eb1166881dfe51eae5704d83933154a4f79ec7c690df114974b7f9b",
+        "signature": "efc36e841eb1166881dfe51eae5704d83933154a4f79ec7c690df114974b7f9b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/botbuilder-adapter-facebook/lib/index.d.ts": {
+        "version": "c8fb57bfe17b97d1993c70f460e42a2d59aafb00801d859b6c08a3ab8e1b0f8b",
+        "signature": "c8fb57bfe17b97d1993c70f460e42a2d59aafb00801d859b6c08a3ab8e1b0f8b",
+        "affectsGlobalScope": false
+      },
+      "../src/dialogs/starteddialog.ts": {
+        "version": "68626e059645c14303dbd7b21c4b262b2fbaf50ad0d98ab5f196d54e1a9dce9b",
+        "signature": "e88699bf668560270ec2b59fcda5d952a1f3714f101ff66ff30ec71fe78acecf",
         "affectsGlobalScope": false
       },
       "../src/dialogs/card.ts": {
-        "version": "504780b392bf50e103dd8ff6cfa06a54e02e896399119d33febac9d2a68e2498",
-        "signature": "e5f222b63fa4f62a62312572cc66c5a70d95fb697db05795d7b8e17cb948dad5",
+        "version": "08b8f6223b23471d212c7d2f423063bc959dae88bc3afac233a9174c2c7f915a",
+        "signature": "e2a80ccacb14598f0b05a4afc80b389f45550a791e21f534d145168a44afe276",
         "affectsGlobalScope": false
       },
-      "../src/bots/bot.ts": {
-        "version": "dd63e62d25a8f38a817693df76816a4c2774c620de1fc30c79855f5b0b7b00b7",
-        "signature": "765219db5cdaae211bcfdcc31f1587b99128a3fbf285b1b60eeeb71d25d92e48",
+      "../node_modules/axios/index.d.ts": {
+        "version": "c50b2f015a8bddda1689f8228703f177614f9e10348f4a845104f04351264507",
+        "signature": "c50b2f015a8bddda1689f8228703f177614f9e10348f4a845104f04351264507",
+        "affectsGlobalScope": false
+      },
+      "../src/apis/hermes.ts": {
+        "version": "23c5a534963b479f0fe955929154849a3f7a3aaa2298c7d4a3f4eda50136b4da",
+        "signature": "2241e8562eddd395f970243751e88419d8c47c4955c512c43d9749b1744d27d5",
+        "affectsGlobalScope": false
+      },
+      "../src/dialogs/maindialog.ts": {
+        "version": "dc3a474398ca9713009b43aa410ffca3919bff961f7066e65a6e18c178e7dc5c",
+        "signature": "e3136ff776c1cb61a0eb55a6f4fbbe7e353383bb5d23603807d03b0ea65dcdd5",
+        "affectsGlobalScope": false
+      },
+      "../src/bots/dialogbot.ts": {
+        "version": "4a97f56b17b5b55bdeb909c799c28ab6af1fe5b8372430ad1c4c9971741dde87",
+        "signature": "595420d141603064cc0ad286f39640de50fcd516062440c6fabc2091eef80463",
+        "affectsGlobalScope": false
+      },
+      "../src/bots/dialogwelcomebot.ts": {
+        "version": "ec8e18fe0fada27771952b70993ed085dbd7c2420d1307ebb6e1faf1989030bd",
+        "signature": "e9cfd71fa94765069ee0deffb29f30b1983f1aca5f4ae21dccfd47a64a694154",
         "affectsGlobalScope": false
       },
       "../src/index.ts": {
-        "version": "24eb8791aa1f924040232a70641c317dcd9f2470a69f834d9aa356400625ae2a",
+        "version": "e081031a92f543dc7818c4438c92f3117b1ff1979c337f91a4e208ac5b6acc70",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
         "affectsGlobalScope": false
       },
-      "../src/bots/dialogwelcome.ts": {
-        "version": "5cfabbebdf7f2c53aae447488dc212b234c71afe54e5f839266267bc59cd5f87",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+      "../src/bots/bot.ts": {
+        "version": "a4f584cbd9808ac28d8316254c94aef028ccd7b568ca3181fbd12f11363aa684",
+        "signature": "765219db5cdaae211bcfdcc31f1587b99128a3fbf285b1b60eeeb71d25d92e48",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/color-name/index.d.ts": {
         "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
         "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/debug/index.d.ts": {
+        "version": "3cf5f191d75bbe7c92f921e5ae12004ac672266e2be2ece69f40b1d6b1b678f9",
+        "signature": "3cf5f191d75bbe7c92f921e5ae12004ac672266e2be2ece69f40b1d6b1b678f9",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/eslint-visitor-keys/index.d.ts": {
@@ -1962,6 +2087,7 @@
       "sourceMap": true,
       "incremental": true,
       "tsBuildInfoFile": "./.tsbuildinfo",
+      "esModuleInterop": true,
       "configFilePath": "../tsconfig.json"
     },
     "referencedMap": {
@@ -1995,11 +2121,11 @@
         "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
         "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
         "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
+        "../node_modules/@azure/ms-rest-js/node_modules/axios/index.d.ts",
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/@types/node/ts3.1/http.d.ts",
         "../node_modules/@types/node/ts3.1/https.d.ts",
-        "../node_modules/@types/tunnel/index.d.ts",
-        "../node_modules/axios/index.d.ts"
+        "../node_modules/@types/tunnel/index.d.ts"
       ],
       "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts": [
         "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
@@ -2189,6 +2315,9 @@
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/@types/node/ts3.1/events.d.ts"
       ],
+      "../node_modules/@types/documentdb/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
+      ],
       "../node_modules/@types/formidable/index.d.ts": [
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/@types/node/ts3.1/events.d.ts",
@@ -2367,6 +2496,24 @@
       "../node_modules/adal-node/lib/adal.d.ts": [
         "../node_modules/@types/node/ts3.1/http.d.ts"
       ],
+      "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts": [
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
+        "../node_modules/botkit/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_adapter.d.ts": [
+        "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_event_middleware.d.ts": [
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-adapter-facebook/lib/index.d.ts": [
+        "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_adapter.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_event_middleware.d.ts"
+      ],
       "../node_modules/botbuilder-ai/lib/index.d.ts": [
         "../node_modules/botbuilder-ai/lib/datetimespec.d.ts",
         "../node_modules/botbuilder-ai/lib/geographyv2.d.ts",
@@ -2429,6 +2576,28 @@
         "../node_modules/botbuilder-ai/lib/qnamaker-interfaces/qnamakeroptions.d.ts",
         "../node_modules/botbuilder-core/lib/index.d.ts",
         "../node_modules/botbuilder-dialogs/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/azureblobtranscriptstore.d.ts": [
+        "../node_modules/botbuilder-azure/lib/blobstorage.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/blobstorage.d.ts": [
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/cosmosdbpartitionedstorage.d.ts": [
+        "../node_modules/@azure/cosmos/dist/types/latest/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/cosmosdbstorage.d.ts": [
+        "../node_modules/@types/documentdb/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/index.d.ts": [
+        "../node_modules/botbuilder-azure/lib/azureblobtranscriptstore.d.ts",
+        "../node_modules/botbuilder-azure/lib/blobstorage.d.ts",
+        "../node_modules/botbuilder-azure/lib/cosmosdbkeyescape.d.ts",
+        "../node_modules/botbuilder-azure/lib/cosmosdbpartitionedstorage.d.ts",
+        "../node_modules/botbuilder-azure/lib/cosmosdbstorage.d.ts"
       ],
       "../node_modules/botbuilder-core/lib/activityfactory.d.ts": [
         "../node_modules/botframework-schema/lib/index.d.ts"
@@ -3365,8 +3534,49 @@
         "../node_modules/botframework-streaming/lib/interfaces/itransportreceiver.d.ts",
         "../node_modules/botframework-streaming/lib/interfaces/itransportsender.d.ts"
       ],
+      "../node_modules/botkit/lib/botworker.d.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../node_modules/botkit/lib/core.d.ts"
+      ],
+      "../node_modules/botkit/lib/conversation.d.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botkit/lib/botworker.d.ts",
+        "../node_modules/botkit/lib/core.d.ts",
+        "../node_modules/botkit/lib/dialogwrapper.d.ts"
+      ],
+      "../node_modules/botkit/lib/core.d.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../node_modules/botkit/lib/botworker.d.ts"
+      ],
+      "../node_modules/botkit/lib/dialogwrapper.d.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botkit/lib/conversation.d.ts"
+      ],
+      "../node_modules/botkit/lib/index.d.ts": [
+        "../node_modules/botkit/lib/botworker.d.ts",
+        "../node_modules/botkit/lib/conversation.d.ts",
+        "../node_modules/botkit/lib/core.d.ts",
+        "../node_modules/botkit/lib/dialogwrapper.d.ts",
+        "../node_modules/botkit/lib/teamshelpers.d.ts",
+        "../node_modules/botkit/lib/testclient.d.ts"
+      ],
+      "../node_modules/botkit/lib/teamshelpers.d.ts": [
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../node_modules/botkit/lib/botworker.d.ts",
+        "../node_modules/botkit/lib/core.d.ts"
+      ],
+      "../node_modules/botkit/lib/testclient.d.ts": [
+        "../node_modules/botbuilder-core/lib/index.d.ts",
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botkit/lib/core.d.ts"
+      ],
       "../node_modules/dotenv/types/index.d.ts": [
         "../node_modules/@types/node/index.d.ts"
+      ],
+      "../src/apis/hermes.ts": [
+        "../node_modules/axios/index.d.ts"
       ],
       "../src/bots/bot.ts": [
         "../node_modules/botbuilder-ai/lib/index.d.ts",
@@ -3377,23 +3587,42 @@
       "../src/bots/dialogbot.ts": [
         "../node_modules/botbuilder-ai/lib/index.d.ts",
         "../node_modules/botbuilder-dialogs/lib/index.d.ts",
-        "../node_modules/botbuilder/lib/index.d.ts"
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../src/dialogs/maindialog.ts"
       ],
-      "../src/bots/dialogwelcome.ts": [
-        "../src/bots/dialogbot.ts"
+      "../src/bots/dialogwelcomebot.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../src/bots/dialogbot.ts",
+        "../src/dialogs/maindialog.ts"
       ],
       "../src/dialogs/card.ts": [
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../src/dialogs/maindialog.ts": [
+        "../node_modules/botbuilder-adapter-facebook/lib/index.d.ts",
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../src/apis/hermes.ts",
+        "../src/dialogs/card.ts",
+        "../src/dialogs/starteddialog.ts"
+      ],
+      "../src/dialogs/starteddialog.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
         "../node_modules/botbuilder/lib/index.d.ts"
       ],
       "../src/index.ts": [
         "../node_modules/@types/node/ts3.1/path.d.ts",
         "../node_modules/@types/restify/index.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/index.d.ts",
         "../node_modules/botbuilder-ai/lib/index.d.ts",
+        "../node_modules/botbuilder-azure/lib/index.d.ts",
         "../node_modules/botbuilder-dialogs/lib/index.d.ts",
         "../node_modules/botbuilder/lib/index.d.ts",
         "../node_modules/dotenv/types/index.d.ts",
-        "../src/bots/bot.ts",
-        "../src/bots/dialogbot.ts"
+        "../src/bots/dialogwelcomebot.ts",
+        "../src/dialogs/maindialog.ts",
+        "../src/dialogs/starteddialog.ts"
       ]
     },
     "exportedModulesMap": {
@@ -3621,6 +3850,9 @@
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/@types/node/ts3.1/events.d.ts"
       ],
+      "../node_modules/@types/documentdb/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
+      ],
       "../node_modules/@types/formidable/index.d.ts": [
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/@types/node/ts3.1/events.d.ts",
@@ -3799,6 +4031,24 @@
       "../node_modules/adal-node/lib/adal.d.ts": [
         "../node_modules/@types/node/ts3.1/http.d.ts"
       ],
+      "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts": [
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
+        "../node_modules/botkit/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_adapter.d.ts": [
+        "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_event_middleware.d.ts": [
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-adapter-facebook/lib/index.d.ts": [
+        "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_adapter.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
+        "../node_modules/botbuilder-adapter-facebook/lib/facebook_event_middleware.d.ts"
+      ],
       "../node_modules/botbuilder-ai/lib/index.d.ts": [
         "../node_modules/botbuilder-ai/lib/datetimespec.d.ts",
         "../node_modules/botbuilder-ai/lib/geographyv2.d.ts",
@@ -3861,6 +4111,28 @@
         "../node_modules/botbuilder-ai/lib/qnamaker-interfaces/qnamakeroptions.d.ts",
         "../node_modules/botbuilder-core/lib/index.d.ts",
         "../node_modules/botbuilder-dialogs/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/azureblobtranscriptstore.d.ts": [
+        "../node_modules/botbuilder-azure/lib/blobstorage.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/blobstorage.d.ts": [
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/cosmosdbpartitionedstorage.d.ts": [
+        "../node_modules/@azure/cosmos/dist/types/latest/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/cosmosdbstorage.d.ts": [
+        "../node_modules/@types/documentdb/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../node_modules/botbuilder-azure/lib/index.d.ts": [
+        "../node_modules/botbuilder-azure/lib/azureblobtranscriptstore.d.ts",
+        "../node_modules/botbuilder-azure/lib/blobstorage.d.ts",
+        "../node_modules/botbuilder-azure/lib/cosmosdbkeyescape.d.ts",
+        "../node_modules/botbuilder-azure/lib/cosmosdbpartitionedstorage.d.ts",
+        "../node_modules/botbuilder-azure/lib/cosmosdbstorage.d.ts"
       ],
       "../node_modules/botbuilder-core/lib/activityfactory.d.ts": [
         "../node_modules/botframework-schema/lib/index.d.ts"
@@ -4797,8 +5069,49 @@
         "../node_modules/botframework-streaming/lib/interfaces/itransportreceiver.d.ts",
         "../node_modules/botframework-streaming/lib/interfaces/itransportsender.d.ts"
       ],
+      "../node_modules/botkit/lib/botworker.d.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../node_modules/botkit/lib/core.d.ts"
+      ],
+      "../node_modules/botkit/lib/conversation.d.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botkit/lib/botworker.d.ts",
+        "../node_modules/botkit/lib/core.d.ts",
+        "../node_modules/botkit/lib/dialogwrapper.d.ts"
+      ],
+      "../node_modules/botkit/lib/core.d.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../node_modules/botkit/lib/botworker.d.ts"
+      ],
+      "../node_modules/botkit/lib/dialogwrapper.d.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botkit/lib/conversation.d.ts"
+      ],
+      "../node_modules/botkit/lib/index.d.ts": [
+        "../node_modules/botkit/lib/botworker.d.ts",
+        "../node_modules/botkit/lib/conversation.d.ts",
+        "../node_modules/botkit/lib/core.d.ts",
+        "../node_modules/botkit/lib/dialogwrapper.d.ts",
+        "../node_modules/botkit/lib/teamshelpers.d.ts",
+        "../node_modules/botkit/lib/testclient.d.ts"
+      ],
+      "../node_modules/botkit/lib/teamshelpers.d.ts": [
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../node_modules/botkit/lib/botworker.d.ts",
+        "../node_modules/botkit/lib/core.d.ts"
+      ],
+      "../node_modules/botkit/lib/testclient.d.ts": [
+        "../node_modules/botbuilder-core/lib/index.d.ts",
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botkit/lib/core.d.ts"
+      ],
       "../node_modules/dotenv/types/index.d.ts": [
         "../node_modules/@types/node/index.d.ts"
+      ],
+      "../src/apis/hermes.ts": [
+        "../node_modules/axios/index.d.ts"
       ],
       "../src/bots/bot.ts": [
         "../node_modules/botbuilder-ai/lib/index.d.ts",
@@ -4806,12 +5119,24 @@
         "../node_modules/botbuilder/lib/index.d.ts"
       ],
       "../src/bots/dialogbot.ts": [
-        "../node_modules/botbuilder-ai/lib/index.d.ts",
         "../node_modules/botbuilder-dialogs/lib/index.d.ts",
         "../node_modules/botbuilder/lib/index.d.ts"
       ],
+      "../src/bots/dialogwelcomebot.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../src/bots/dialogbot.ts"
+      ],
       "../src/dialogs/card.ts": [
         "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../src/dialogs/maindialog.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts",
+        "../src/dialogs/starteddialog.ts"
+      ],
+      "../src/dialogs/starteddialog.ts": [
+        "../node_modules/botbuilder-dialogs/lib/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -4821,6 +5146,7 @@
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/mappers.d.ts",
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/operations/index.d.ts",
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/operations/prediction.d.ts",
+      "../node_modules/@azure/cosmos/dist/types/latest/index.d.ts",
       "../node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts",
       "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
       "../node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
@@ -4860,8 +5186,11 @@
       "../node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
       "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
       "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
+      "../node_modules/@azure/ms-rest-js/node_modules/axios/index.d.ts",
       "../node_modules/@types/bunyan/index.d.ts",
       "../node_modules/@types/color-name/index.d.ts",
+      "../node_modules/@types/debug/index.d.ts",
+      "../node_modules/@types/documentdb/index.d.ts",
       "../node_modules/@types/eslint-visitor-keys/index.d.ts",
       "../node_modules/@types/events/index.d.ts",
       "../node_modules/@types/formidable/index.d.ts",
@@ -4916,6 +5245,11 @@
       "../node_modules/@types/ws/index.d.ts",
       "../node_modules/adal-node/lib/adal.d.ts",
       "../node_modules/axios/index.d.ts",
+      "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts",
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_adapter.d.ts",
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
+      "../node_modules/botbuilder-adapter-facebook/lib/facebook_event_middleware.d.ts",
+      "../node_modules/botbuilder-adapter-facebook/lib/index.d.ts",
       "../node_modules/botbuilder-ai/lib/datetimespec.d.ts",
       "../node_modules/botbuilder-ai/lib/geographyv2.d.ts",
       "../node_modules/botbuilder-ai/lib/index.d.ts",
@@ -4940,6 +5274,12 @@
       "../node_modules/botbuilder-ai/lib/qnamaker-interfaces/rankertypes.d.ts",
       "../node_modules/botbuilder-ai/lib/qnamaker.d.ts",
       "../node_modules/botbuilder-ai/lib/qnamakerdialog.d.ts",
+      "../node_modules/botbuilder-azure/lib/azureblobtranscriptstore.d.ts",
+      "../node_modules/botbuilder-azure/lib/blobstorage.d.ts",
+      "../node_modules/botbuilder-azure/lib/cosmosdbkeyescape.d.ts",
+      "../node_modules/botbuilder-azure/lib/cosmosdbpartitionedstorage.d.ts",
+      "../node_modules/botbuilder-azure/lib/cosmosdbstorage.d.ts",
+      "../node_modules/botbuilder-azure/lib/index.d.ts",
       "../node_modules/botbuilder-core/lib/activityfactory.d.ts",
       "../node_modules/botbuilder-core/lib/activityhandler.d.ts",
       "../node_modules/botbuilder-core/lib/activityhandlerbase.d.ts",
@@ -5166,6 +5506,13 @@
       "../node_modules/botframework-streaming/lib/websocket/nodewebsocketclient.d.ts",
       "../node_modules/botframework-streaming/lib/websocket/websocketserver.d.ts",
       "../node_modules/botframework-streaming/lib/websocket/websockettransport.d.ts",
+      "../node_modules/botkit/lib/botworker.d.ts",
+      "../node_modules/botkit/lib/conversation.d.ts",
+      "../node_modules/botkit/lib/core.d.ts",
+      "../node_modules/botkit/lib/dialogwrapper.d.ts",
+      "../node_modules/botkit/lib/index.d.ts",
+      "../node_modules/botkit/lib/teamshelpers.d.ts",
+      "../node_modules/botkit/lib/testclient.d.ts",
       "../node_modules/dotenv/types/index.d.ts",
       "../node_modules/typescript/lib/lib.dom.d.ts",
       "../node_modules/typescript/lib/lib.dom.iterable.d.ts",
@@ -5199,10 +5546,13 @@
       "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "../node_modules/typescript/lib/lib.scripthost.d.ts",
       "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../src/apis/hermes.ts",
       "../src/bots/bot.ts",
       "../src/bots/dialogbot.ts",
-      "../src/bots/dialogwelcome.ts",
+      "../src/bots/dialogwelcomebot.ts",
       "../src/dialogs/card.ts",
+      "../src/dialogs/maindialog.ts",
+      "../src/dialogs/starteddialog.ts",
       "../src/index.ts"
     ]
   },

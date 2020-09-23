@@ -13,7 +13,7 @@
         "quotemark": [true, "double"],
         "one-variable-per-declaration": false,
         "curly": [true, "ignore-same-line"],
-        "trailing-comma": [true, {"multiline": "never", "singleline": "never"}],
+        "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
         "ordered-imports": false,
         "typedef": false,
         "no-unused-variable": true,
@@ -25,6 +25,9 @@
         "completed-docs": false,
         "no-import-side-effect": [true, { "ignore-module": "(\\.css)$" }],
         "switch-final-break": false,
-        "newline-before-return": false
+        "newline-before-return": false,
+        "no-return-await": false,
+        "function-name": false,
+        "no-require-imports": false,
     }
 }
