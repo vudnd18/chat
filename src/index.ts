@@ -14,7 +14,7 @@ import { FacebookAdapter } from 'botbuilder-adapter-facebook';
 const ENV_FILE = path.join(__dirname, '..', '.env');
 config({ path: ENV_FILE });
 import { DialogWelcomeBot } from './bots/dialogWelcomeBot';
-import { StartedDialog } from './dialogs/startedDialog';
+// import { StartedDialog } from './dialogs/startedDialog';
 import { MainDialog } from './dialogs/mainDialog';
 
 const STARTED_DIALOG = 'startedDialog';
@@ -65,8 +65,8 @@ conversationState = new ConversationState(memoryStorage);
 userState = new UserState(memoryStorage);
 
 // Create the main dialog.
-const startedDialog = new StartedDialog(STARTED_DIALOG);
-const dialog = new MainDialog(startedDialog);
+// const startedDialog = new StartedDialog(STARTED_DIALOG);
+const dialog = new MainDialog();
 const bot: DialogWelcomeBot = new DialogWelcomeBot(
   conversationState,
   userState,

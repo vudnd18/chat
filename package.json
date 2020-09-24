@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "@microsoft/recognizers-text-data-types-timex-expression": "1.1.4",
+    "adaptivecards": "^2.3.0",
     "axios": "^0.20.0",
     "botbuilder": "~4.10.1",
     "botbuilder-adapter-facebook": "^1.0.11",
