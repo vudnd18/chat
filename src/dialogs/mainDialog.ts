@@ -125,12 +125,17 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async startBooking(context) {
-    // const pageId = context.activity.recipient.id;
-    const pageId = 367359240646069;
+    // let pageId = context.activity.recipient.id;
+    let pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
     let channel = context.activity.channelId;
     channel = capitalizeFirstLetter(channel);
+    console.log(context)
+    if(channel == 'Line') {
+      pageId = 1654145898;
+    }
+  
     try {
       const res = await getHotel(pageId, channel);
       const hotel = res.data.data;
@@ -142,12 +147,13 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async mainMenu(context) {
-    // const pageId = context.activity.recipient.id;
-    const pageId = 367359240646069;
+    // let pageId = context.activity.recipient.id;
+    let pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
     let channel = context.activity.channelId;
     channel = capitalizeFirstLetter(channel);
+    
     const res = await getHotel(pageId, channel);
     const hotel = res.data.data;
     try {
@@ -159,12 +165,15 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async hotelInfo(context) {
-    // const pageId = stepContext.context.activity.recipient.id;
-    const pageId = 367359240646069;
+    // let pageId = stepContext.context.activity.recipient.id;
+    let pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
     let channel = context.activity.channelId;
     channel = capitalizeFirstLetter(channel);
+    if(channel == 'Line') {
+      pageId = 1654145898;
+    }
     const res = await getHotel(pageId, channel);
     const hotel = res.data.data;
     const resFacilities = await getFacilities(pageId, channel);
@@ -182,13 +191,15 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async callHotel(context) {
-    // const pageId = stepContext.context.activity.recipient.id;
-    const pageId = 367359240646069;
+    // let pageId = stepContext.context.activity.recipient.id;
+    let pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
     let channel = context.activity.channelId;
     channel = capitalizeFirstLetter(channel);
-
+    if(channel == 'Line') {
+      pageId = 1654145898;
+    }
     const res = await getHotel(pageId, channel);
     const hotel = res.data.data;
     try {
@@ -201,12 +212,14 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async detailFacility(context) {
-    const pageId = 367359240646069;
+    let pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
     let channel = context.activity.channelId;
     channel = capitalizeFirstLetter(channel);
-
+    if(channel == 'Line') {
+      pageId = 1654145898;
+    }
     const res = await getFacilities(pageId, channel);
     const facilities = res.data.data;
     const { text } = context.activity;

@@ -2097,7 +2097,7 @@
         "affectsGlobalScope": false
       },
       "../src/dialogs/maindialog.ts": {
-        "version": "6c0fe70b320142e24db49f3ced6ffa27162d364740fe19cb9404175f38290430",
+        "version": "5663a7c608b754c52a272f592bb523f209bfcad808d0bbc01dd4e06251ac641b",
         "signature": "34f04ec11171307f3e7b9e2aba0d062b55c138e09460301d861cb72cb3c1e65e",
         "affectsGlobalScope": false
       },
