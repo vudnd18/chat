@@ -21,7 +21,7 @@ import {
   ActionTypes,
   AttachmentLayoutTypes
 } from 'botbuilder';
-import { getInfo, getFacilitiesByHotelId } from '../apis/hermes';
+import { getCustomer, getFacilities, getHotel } from '../apis/hermes';
 import {
   generateWebviewBooking,
   menuWelcomeMessage,
@@ -35,6 +35,7 @@ import {
   callHotelContent,
   hotelInfoContent
 } from '../lib/botContent';
+import { capitalizeFirstLetter } from '../lib/helper';
 const welcomeCardJson = require('../../resources/welcomeCard.json');
 const TEXT_PROMPT = 'TextPrompt';
 const MAIN_WATERFALL_DIALOG = 'GET_STARTED';
@@ -99,31 +100,13 @@ export class MainDialog extends ComponentDialog {
       default:
         break;
     }
-    if (text.startsWith('SHOW_FACILITY')) {
+    if (text && text.startsWith('SHOW_FACILITY')) {
       await this.detailFacility(context);
     }
   }
 
   private async introStep(stepContext: WaterfallStepContext) {
     const { text } = stepContext.context.activity;
-    console.log('introStep');
-    // return await stepContext.prompt(TEXT_PROMPT, { prompt: 'hello' });
-    // switch (text) {
-    //   case 'BOOK_ROOMS':
-    //     await this.startBooking(stepContext);
-    //     break;
-    //   case 'GET_STARTED':
-    //     await this.mainMenu(stepContext);
-    //     break;
-    //   case 'HOTEL_INFO':
-    //     await this.hotelInfo(stepContext);
-    //     break;
-    //   case 'CALL_HOTEL':
-    //     await this.callHotel(stepContext);
-    //     break;
-    //   default:
-    //     break;
-    // }
     // const choices = ["Book rooms", "Main menu", "Hotel Info"];
     // const options: PromptOptions = {
     //   prompt: "Bạn muốn biết về điều gì ?",
@@ -142,27 +125,31 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async startBooking(context) {
-    // const fbPageId = context.activity.recipient.id;
-    const fbPageId = 367359240646069;
+    // const pageId = context.activity.recipient.id;
+    const pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
-    const res = await getInfo(fbPageId, psId);
-    const { hotel, customer } = res.data.data;
+    let channel = context.activity.channelId;
+    channel = capitalizeFirstLetter(channel);
     try {
-      const card = webviewBookingContent(psId, hotel, customerName);
+      const res = await getHotel(pageId, channel);
+      const hotel = res.data.data;
+      const card = webviewBookingContent(psId, hotel, channel, customerName);
       await context.sendActivity({ attachments: [card] });
     } catch (err) {
-      console.log(err);
+      // console.log(err);
     }
   }
 
   public async mainMenu(context) {
-    // const fbPageId = context.activity.recipient.id;
-    const fbPageId = 367359240646069;
+    // const pageId = context.activity.recipient.id;
+    const pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
-    const res = await getInfo(fbPageId, psId);
-    const { hotel, customer } = res.data.data;
+    let channel = context.activity.channelId;
+    channel = capitalizeFirstLetter(channel);
+    const res = await getHotel(pageId, channel);
+    const hotel = res.data.data;
     try {
       const card = mainMenuContent(psId, hotel, customerName);
       await context.sendActivity({ attachments: [card] });
@@ -172,13 +159,15 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async hotelInfo(context) {
-    // const fbPageId = stepContext.context.activity.recipient.id;
-    const fbPageId = 367359240646069;
+    // const pageId = stepContext.context.activity.recipient.id;
+    const pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
-    const res = await getInfo(fbPageId, psId);
-    const { hotel, customer } = res.data.data;
-    const resFacilities = await getFacilitiesByHotelId(fbPageId);
+    let channel = context.activity.channelId;
+    channel = capitalizeFirstLetter(channel);
+    const res = await getHotel(pageId, channel);
+    const hotel = res.data.data;
+    const resFacilities = await getFacilities(pageId, channel);
     const facilities = resFacilities.data.data;
     try {
       const content = hotelInfoContent(psId, hotel, facilities);
@@ -193,12 +182,15 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async callHotel(context) {
-    // const fbPageId = stepContext.context.activity.recipient.id;
-    const fbPageId = 367359240646069;
+    // const pageId = stepContext.context.activity.recipient.id;
+    const pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
-    const res = await getInfo(fbPageId, psId);
-    const { hotel, customer } = res.data.data;
+    let channel = context.activity.channelId;
+    channel = capitalizeFirstLetter(channel);
+
+    const res = await getHotel(pageId, channel);
+    const hotel = res.data.data;
     try {
       const card = callHotelContent(psId, hotel, customerName);
       const welcomeCard = CardFactory.adaptiveCard(card);
@@ -209,10 +201,13 @@ export class MainDialog extends ComponentDialog {
   }
 
   public async detailFacility(context) {
-    const fbPageId = 367359240646069;
+    const pageId = 367359240646069;
     const customerName = context.activity.from.name;
     const psId = context.activity.from.id;
-    const res = await getFacilitiesByHotelId(fbPageId);
+    let channel = context.activity.channelId;
+    channel = capitalizeFirstLetter(channel);
+
+    const res = await getFacilities(pageId, channel);
     const facilities = res.data.data;
     const { text } = context.activity;
     const id = text.split('-')[1];

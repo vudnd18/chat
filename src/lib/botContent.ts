@@ -7,7 +7,7 @@ import {
 } from 'botbuilder';
 import * as AdaptiveCards from 'adaptivecards';
 
-export function webviewBookingContent(psId, hotel, customerName): Attachment {
+export function webviewBookingContent(psId, hotel, channel, customerName): Attachment {
   return CardFactory.heroCard(
     `Để xem giá ƯU ĐÃI dành riêng cho ${customerName}, bạn vui lòng nhấn nút TÌM PHÒNG 👇 bên dưới nhé.`,
     CardFactory.images([]),
@@ -15,7 +15,7 @@ export function webviewBookingContent(psId, hotel, customerName): Attachment {
       {
         type: ActionTypes.OpenUrl,
         title: 'TÌM PHÒNG',
-        value: `${process.env.HERMES2_WEBVIEW}/webview/booking-flexible?hotelId=${hotel.slug}&userId=${psId}&channel=Facebook`
+        value: `${process.env.HERMES2_WEBVIEW}/webview/booking-flexible?hotelId=${hotel.slug}&userId=${psId}&channel=${channel}`
       }
     ])
   );

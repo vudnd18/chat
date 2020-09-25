@@ -1,2 +1,3 @@
-export declare const getInfo: (fbPageId: any, userChannelId: any) => Promise<import("axios").AxiosResponse<any>>;
-export declare const getFacilitiesByHotelId: (fbPageId: any) => Promise<import("axios").AxiosResponse<any>>;
+export declare const getHotel: (pageId: any, channel: any) => Promise<import("axios").AxiosResponse<any>>;
+export declare const getCustomer: (pageId: any, userChannelId: any, channel: any) => Promise<import("axios").AxiosResponse<any>>;
+export declare const getFacilities: (pageId: any, channel: any) => Promise<import("axios").AxiosResponse<any>>;

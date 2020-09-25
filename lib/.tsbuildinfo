@@ -2017,8 +2017,8 @@
         "affectsGlobalScope": false
       },
       "../src/apis/hermes.ts": {
-        "version": "4a714cea5ca180fa9b9d09aa26692ad19c5c93e6e24fec3533767f772970aaca",
-        "signature": "f661884ab813ed59a82f36491441ddd21cfe77f8fe048064031d36fd895fc805",
+        "version": "d69d01b6b590e58e268af0214a124655e7fe14a13bb2075880b102c9e23526a2",
+        "signature": "5bd59697f8ad1d651acfbb1556d49dd5bde03a976a5303ced0334a20623d7c54",
         "affectsGlobalScope": false
       },
       "../src/lib/facebookcontent.ts": {
@@ -2087,12 +2087,17 @@
         "affectsGlobalScope": false
       },
       "../src/lib/botcontent.ts": {
-        "version": "a6f86c2886e245bcc87c71dc7bddd57a18e281b5e7d8260083a5ceb0f9e04eca",
-        "signature": "89c9299c9285779a889df6d2c21ec2680fb33826f15ded9651d1d38e11832aa6",
+        "version": "53baf194e67dc8ef9cab6d74001baf6bfbc0e49acef8551479c3b1d6f0677030",
+        "signature": "a080d5dcdf735d20e57494408f3ba74b665a1126e5378897934a3592474ba076",
+        "affectsGlobalScope": false
+      },
+      "../src/lib/helper.ts": {
+        "version": "41d10d7b8818e46ad0608edb77e3ad1eea14ce623622f86eae62f7d93bd07a60",
+        "signature": "5555fe6dbc529f4cb5b0e541251006bd186ac1fc31f6c4fdb76bab44be1cd32a",
         "affectsGlobalScope": false
       },
       "../src/dialogs/maindialog.ts": {
-        "version": "b01608d64b6b28286e1f8a42810d163c85d715a429b98639d0d401379bf6b44c",
+        "version": "6c0fe70b320142e24db49f3ced6ffa27162d364740fe19cb9404175f38290430",
         "signature": "34f04ec11171307f3e7b9e2aba0d062b55c138e09460301d861cb72cb3c1e65e",
         "affectsGlobalScope": false
       },
@@ -3720,7 +3725,8 @@
         "../src/apis/hermes.ts",
         "../src/dialogs/card.ts",
         "../src/lib/botcontent.ts",
-        "../src/lib/facebookcontent.ts"
+        "../src/lib/facebookcontent.ts",
+        "../src/lib/helper.ts"
       ],
       "../src/index.ts": [
         "../node_modules/@types/node/ts3.1/path.d.ts",
@@ -5728,7 +5734,8 @@
       "../src/dialogs/maindialog.ts",
       "../src/index.ts",
       "../src/lib/botcontent.ts",
-      "../src/lib/facebookcontent.ts"
+      "../src/lib/facebookcontent.ts",
+      "../src/lib/helper.ts"
     ]
   },
   "version": "3.9.7"
