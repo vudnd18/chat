@@ -2006,119 +2006,64 @@
         "signature": "c8fb57bfe17b97d1993c70f460e42a2d59aafb00801d859b6c08a3ab8e1b0f8b",
         "affectsGlobalScope": false
       },
-      "../src/dialogs/card.ts": {
-        "version": "08b8f6223b23471d212c7d2f423063bc959dae88bc3afac233a9174c2c7f915a",
-        "signature": "e2a80ccacb14598f0b05a4afc80b389f45550a791e21f534d145168a44afe276",
-        "affectsGlobalScope": false
-      },
       "../node_modules/axios/index.d.ts": {
         "version": "c50b2f015a8bddda1689f8228703f177614f9e10348f4a845104f04351264507",
         "signature": "c50b2f015a8bddda1689f8228703f177614f9e10348f4a845104f04351264507",
         "affectsGlobalScope": false
       },
       "../src/apis/hermes.ts": {
-        "version": "d69d01b6b590e58e268af0214a124655e7fe14a13bb2075880b102c9e23526a2",
+        "version": "dbdfe5feaac4fdb96bd7b260900237e0790cd73837e60a55a830df7d8694994b",
         "signature": "5bd59697f8ad1d651acfbb1556d49dd5bde03a976a5303ced0334a20623d7c54",
         "affectsGlobalScope": false
       },
-      "../src/lib/facebookcontent.ts": {
-        "version": "fc9af523edeee07395facd17051173bc7c9514f12135f71fc94f742ef96b6807",
-        "signature": "13bb92a2f5dad61ad40663c704cc85c7704f974a13ba5b09d2f13b10d4e174a7",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/enums.d.ts": {
-        "version": "b1b011d15b58c8e58e63a63a243ed72fa77f23f572e423bab45ab022c1103683",
-        "signature": "b1b011d15b58c8e58e63a63a243ed72fa77f23f572e423bab45ab022c1103683",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/serialization.d.ts": {
-        "version": "9e9e36b5cb86b479248451339dbf697c2134da7d1b660ab0df340a0164baf70a",
-        "signature": "9e9e36b5cb86b479248451339dbf697c2134da7d1b660ab0df340a0164baf70a",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/registry.d.ts": {
-        "version": "dd3285f835b5371575f65bd9e23e0141873520b1c11f46bdcb2924869ee10076",
-        "signature": "dd3285f835b5371575f65bd9e23e0141873520b1c11f46bdcb2924869ee10076",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/shared.d.ts": {
-        "version": "763461648847fcdc66870f2e21dab88d709cc34f7a0011f470b090b8fe91a7ad",
-        "signature": "763461648847fcdc66870f2e21dab88d709cc34f7a0011f470b090b8fe91a7ad",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/host-capabilities.d.ts": {
-        "version": "9d8edc15d462e366bde19349d93e0591cc3d64cbf33a476495d3d3a3b64ab6b8",
-        "signature": "9d8edc15d462e366bde19349d93e0591cc3d64cbf33a476495d3d3a3b64ab6b8",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/host-config.d.ts": {
-        "version": "381100000943eac3b025f2cca4da8c9686f8bf081abce1b27e38bc34a50078ab",
-        "signature": "381100000943eac3b025f2cca4da8c9686f8bf081abce1b27e38bc34a50078ab",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/card-object.d.ts": {
-        "version": "41f468eb044da4a5ae468222c92af8ed202513957c351d965286508dc04c030f",
-        "signature": "41f468eb044da4a5ae468222c92af8ed202513957c351d965286508dc04c030f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/card-elements.d.ts": {
-        "version": "9f2238166e904520162884b5755258fd2f5f0c5af18caf193770546067951dd2",
-        "signature": "9f2238166e904520162884b5755258fd2f5f0c5af18caf193770546067951dd2",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/utils.d.ts": {
-        "version": "2247026caa5276e43feaceaafbbe407882864991ee7b774ad60fddbf52f1f599",
-        "signature": "2247026caa5276e43feaceaafbbe407882864991ee7b774ad60fddbf52f1f599",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/strings.d.ts": {
-        "version": "44fd6f618ad0d1b01a9fb7241b05fbd0073099344d501a6cf03df43a4abfcb51",
-        "signature": "44fd6f618ad0d1b01a9fb7241b05fbd0073099344d501a6cf03df43a4abfcb51",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/schema.d.ts": {
-        "version": "2461d923a7fbf512b2b0e9595758e3e6e0a5a26787c020b9f2cb54ef355cecd9",
-        "signature": "2461d923a7fbf512b2b0e9595758e3e6e0a5a26787c020b9f2cb54ef355cecd9",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/adaptivecards/lib/adaptivecards.d.ts": {
-        "version": "9c28986cae90b34433b337f7094a903feb61f9e08feaa1b86f2e7a99565bdc07",
-        "signature": "9c28986cae90b34433b337f7094a903feb61f9e08feaa1b86f2e7a99565bdc07",
-        "affectsGlobalScope": false
-      },
       "../src/lib/botcontent.ts": {
-        "version": "53baf194e67dc8ef9cab6d74001baf6bfbc0e49acef8551479c3b1d6f0677030",
-        "signature": "a080d5dcdf735d20e57494408f3ba74b665a1126e5378897934a3592474ba076",
+        "version": "996fae2f3b39bfacd9bdba1c6827be3af8c714807d086e8000e715926c8c803e",
+        "signature": "191753ff3ddfca7835f512c0455d971e43df6b877ce9a609cecc29f3e2999414",
         "affectsGlobalScope": false
       },
       "../src/lib/helper.ts": {
-        "version": "41d10d7b8818e46ad0608edb77e3ad1eea14ce623622f86eae62f7d93bd07a60",
-        "signature": "5555fe6dbc529f4cb5b0e541251006bd186ac1fc31f6c4fdb76bab44be1cd32a",
+        "version": "2ec56120380115a029a4fd56e0ce096ced8e6c91f1e0963575631ed86e2ea745",
+        "signature": "314228c3b896b6e6917eee0d42cb2c4a73c113d17472f40cc351a54c98edc028",
         "affectsGlobalScope": false
       },
       "../src/dialogs/maindialog.ts": {
-        "version": "5663a7c608b754c52a272f592bb523f209bfcad808d0bbc01dd4e06251ac641b",
-        "signature": "34f04ec11171307f3e7b9e2aba0d062b55c138e09460301d861cb72cb3c1e65e",
+        "version": "2385b6b67f85d3f3c6891434078daf24fa98bbc5e7e8a96a6dcf882941980075",
+        "signature": "7a0dcce70e915fed7b8d9c42422050255dcf0dcd327a96068655a4e77ead8fb6",
         "affectsGlobalScope": false
       },
       "../src/bots/dialogbot.ts": {
-        "version": "4a97f56b17b5b55bdeb909c799c28ab6af1fe5b8372430ad1c4c9971741dde87",
-        "signature": "595420d141603064cc0ad286f39640de50fcd516062440c6fabc2091eef80463",
+        "version": "d95a33acdabe49ee0dab287346f2ea92aa163a779beb047cb5b64dc887a8ad36",
+        "signature": "1d096046c1ac0cb97d9f65afd533f107ef8654d5bfbe46bdff656322be1ded00",
         "affectsGlobalScope": false
       },
       "../src/bots/dialogwelcomebot.ts": {
-        "version": "ec8e18fe0fada27771952b70993ed085dbd7c2420d1307ebb6e1faf1989030bd",
-        "signature": "e9cfd71fa94765069ee0deffb29f30b1983f1aca5f4ae21dccfd47a64a694154",
+        "version": "fc1dc51a055eff54090a072032f20ab772bb2962fe771395a160027607beceef",
+        "signature": "aad015e93cb210e7cd1ddcc999470c03d70391dde258db5b6e5aa2b205289c21",
+        "affectsGlobalScope": false
+      },
+      "../src/middleware/messagemiddleware.ts": {
+        "version": "d0644687c0dbc431849a16091281fd038b01566cc03f554ddba6c5251b45ded2",
+        "signature": "a055bb21c50c06ddc24791fe723e22d8410f4f9aea35029a12b46109036f557f",
         "affectsGlobalScope": false
       },
       "../src/index.ts": {
-        "version": "dad4b53f1d2f34875be619b649200db0118901c1fd4bf03ca1593908cc445c03",
+        "version": "50dd5efe0da0c80d83dcde5c171975568bd5169cf3abf22ef0f2b69c9da5e9f0",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "affectsGlobalScope": false
+      },
+      "../src/dialogs/card.ts": {
+        "version": "bc1fa45bd1a807eea59ad33d1985c80cc299cf5a36f64a11c103f34c9548498f",
+        "signature": "e2a80ccacb14598f0b05a4afc80b389f45550a791e21f534d145168a44afe276",
         "affectsGlobalScope": false
       },
       "../src/bots/bot.ts": {
         "version": "a4f584cbd9808ac28d8316254c94aef028ccd7b568ca3181fbd12f11363aa684",
         "signature": "765219db5cdaae211bcfdcc31f1587b99128a3fbf285b1b60eeeb71d25d92e48",
+        "affectsGlobalScope": false
+      },
+      "../src/lib/facebookcontent.ts": {
+        "version": "c3d6b7a5f25067a49f0b7f1124ba88c99d0d258f2a1a7a3c5f4523a5a4f1dadf",
+        "signature": "13c7a8e02b26703b486f98107b5f67757fb93182b4e29acd66052bf8e38c5392",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/color-name/index.d.ts": {
@@ -2565,55 +2510,6 @@
       ],
       "../node_modules/adal-node/lib/adal.d.ts": [
         "../node_modules/@types/node/ts3.1/http.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/adaptivecards.d.ts": [
-        "../node_modules/adaptivecards/lib/card-elements.d.ts",
-        "../node_modules/adaptivecards/lib/card-object.d.ts",
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-config.d.ts",
-        "../node_modules/adaptivecards/lib/registry.d.ts",
-        "../node_modules/adaptivecards/lib/schema.d.ts",
-        "../node_modules/adaptivecards/lib/serialization.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts",
-        "../node_modules/adaptivecards/lib/strings.d.ts",
-        "../node_modules/adaptivecards/lib/utils.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/card-elements.d.ts": [
-        "../node_modules/adaptivecards/lib/card-object.d.ts",
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-config.d.ts",
-        "../node_modules/adaptivecards/lib/registry.d.ts",
-        "../node_modules/adaptivecards/lib/serialization.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/card-object.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-capabilities.d.ts",
-        "../node_modules/adaptivecards/lib/host-config.d.ts",
-        "../node_modules/adaptivecards/lib/serialization.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/host-capabilities.d.ts": [
-        "../node_modules/adaptivecards/lib/serialization.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/host-config.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-capabilities.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/registry.d.ts": [
-        "../node_modules/adaptivecards/lib/serialization.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/serialization.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/shared.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/utils.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-config.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts"
       ],
       "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts": [
         "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
@@ -3704,10 +3600,11 @@
         "../src/dialogs/card.ts"
       ],
       "../src/bots/dialogbot.ts": [
-        "../node_modules/botbuilder-ai/lib/index.d.ts",
         "../node_modules/botbuilder-dialogs/lib/index.d.ts",
         "../node_modules/botbuilder/lib/index.d.ts",
-        "../src/dialogs/maindialog.ts"
+        "../src/apis/hermes.ts",
+        "../src/dialogs/maindialog.ts",
+        "../src/lib/helper.ts"
       ],
       "../src/bots/dialogwelcomebot.ts": [
         "../node_modules/botbuilder-dialogs/lib/index.d.ts",
@@ -3723,9 +3620,7 @@
         "../node_modules/botbuilder-dialogs/lib/index.d.ts",
         "../node_modules/botbuilder/lib/index.d.ts",
         "../src/apis/hermes.ts",
-        "../src/dialogs/card.ts",
         "../src/lib/botcontent.ts",
-        "../src/lib/facebookcontent.ts",
         "../src/lib/helper.ts"
       ],
       "../src/index.ts": [
@@ -3738,10 +3633,14 @@
         "../node_modules/botbuilder/lib/index.d.ts",
         "../node_modules/dotenv/types/index.d.ts",
         "../src/bots/dialogwelcomebot.ts",
-        "../src/dialogs/maindialog.ts"
+        "../src/dialogs/maindialog.ts",
+        "../src/middleware/messagemiddleware.ts"
       ],
       "../src/lib/botcontent.ts": [
-        "../node_modules/adaptivecards/lib/adaptivecards.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../src/middleware/messagemiddleware.ts": [
+        "../node_modules/botbuilder-core/lib/index.d.ts",
         "../node_modules/botbuilder/lib/index.d.ts"
       ]
     },
@@ -4150,55 +4049,6 @@
       ],
       "../node_modules/adal-node/lib/adal.d.ts": [
         "../node_modules/@types/node/ts3.1/http.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/adaptivecards.d.ts": [
-        "../node_modules/adaptivecards/lib/card-elements.d.ts",
-        "../node_modules/adaptivecards/lib/card-object.d.ts",
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-config.d.ts",
-        "../node_modules/adaptivecards/lib/registry.d.ts",
-        "../node_modules/adaptivecards/lib/schema.d.ts",
-        "../node_modules/adaptivecards/lib/serialization.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts",
-        "../node_modules/adaptivecards/lib/strings.d.ts",
-        "../node_modules/adaptivecards/lib/utils.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/card-elements.d.ts": [
-        "../node_modules/adaptivecards/lib/card-object.d.ts",
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-config.d.ts",
-        "../node_modules/adaptivecards/lib/registry.d.ts",
-        "../node_modules/adaptivecards/lib/serialization.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/card-object.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-capabilities.d.ts",
-        "../node_modules/adaptivecards/lib/host-config.d.ts",
-        "../node_modules/adaptivecards/lib/serialization.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/host-capabilities.d.ts": [
-        "../node_modules/adaptivecards/lib/serialization.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/host-config.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-capabilities.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/registry.d.ts": [
-        "../node_modules/adaptivecards/lib/serialization.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/serialization.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/shared.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts"
-      ],
-      "../node_modules/adaptivecards/lib/utils.d.ts": [
-        "../node_modules/adaptivecards/lib/enums.d.ts",
-        "../node_modules/adaptivecards/lib/host-config.d.ts",
-        "../node_modules/adaptivecards/lib/shared.d.ts"
       ],
       "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts": [
         "../node_modules/botbuilder-adapter-facebook/lib/facebook_api.d.ts",
@@ -5305,6 +5155,10 @@
       ],
       "../src/lib/botcontent.ts": [
         "../node_modules/botbuilder/lib/index.d.ts"
+      ],
+      "../src/middleware/messagemiddleware.ts": [
+        "../node_modules/botbuilder-core/lib/index.d.ts",
+        "../node_modules/botbuilder/lib/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -5412,18 +5266,6 @@
       "../node_modules/@types/tunnel/index.d.ts",
       "../node_modules/@types/ws/index.d.ts",
       "../node_modules/adal-node/lib/adal.d.ts",
-      "../node_modules/adaptivecards/lib/adaptivecards.d.ts",
-      "../node_modules/adaptivecards/lib/card-elements.d.ts",
-      "../node_modules/adaptivecards/lib/card-object.d.ts",
-      "../node_modules/adaptivecards/lib/enums.d.ts",
-      "../node_modules/adaptivecards/lib/host-capabilities.d.ts",
-      "../node_modules/adaptivecards/lib/host-config.d.ts",
-      "../node_modules/adaptivecards/lib/registry.d.ts",
-      "../node_modules/adaptivecards/lib/schema.d.ts",
-      "../node_modules/adaptivecards/lib/serialization.d.ts",
-      "../node_modules/adaptivecards/lib/shared.d.ts",
-      "../node_modules/adaptivecards/lib/strings.d.ts",
-      "../node_modules/adaptivecards/lib/utils.d.ts",
       "../node_modules/axios/index.d.ts",
       "../node_modules/botbuilder-adapter-facebook/lib/botworker.d.ts",
       "../node_modules/botbuilder-adapter-facebook/lib/facebook_adapter.d.ts",
@@ -5735,7 +5577,8 @@
       "../src/index.ts",
       "../src/lib/botcontent.ts",
       "../src/lib/facebookcontent.ts",
-      "../src/lib/helper.ts"
+      "../src/lib/helper.ts",
+      "../src/middleware/messagemiddleware.ts"
     ]
   },
   "version": "3.9.7"

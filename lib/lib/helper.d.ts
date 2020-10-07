@@ -1,1 +1,1 @@
-export declare function capitalizeFirstLetter(text: String): String;
+export declare function capitalizeFirstLetter(text: string): string;

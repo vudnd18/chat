@@ -11,18 +11,20 @@ import { DialogSet } from 'botbuilder-dialogs';
 import { QnAMaker, LuisRecognizer } from 'botbuilder-ai';
 import { BlobStorage } from 'botbuilder-azure';
 import { FacebookAdapter } from 'botbuilder-adapter-facebook';
+
 const ENV_FILE = path.join(__dirname, '..', '.env');
 config({ path: ENV_FILE });
-import { DialogWelcomeBot } from './bots/dialogWelcomeBot';
-// import { StartedDialog } from './dialogs/startedDialog';
-import { MainDialog } from './dialogs/mainDialog';
 
-const STARTED_DIALOG = 'startedDialog';
+import { DialogWelcomeBot } from './bots/dialogWelcomeBot';
+import { MainDialog } from './dialogs/mainDialog';
+import { MessageMiddleware } from './middleware/messageMiddleware';
 
 const adapter = new BotFrameworkAdapter({
   appId: process.env.MICROSOFT_APP_ID,
   appPassword: process.env.MIRCROSOFT_APP_PASSWORD
 });
+
+adapter.use(new MessageMiddleware());
 
 // const adapterFB = new FacebookAdapter({
 //   verify_token: process.env.FACEBOOK_VERIFY_TOKEN,
@@ -61,11 +63,10 @@ let userState: UserState;
 
 // For local development, in-memory storage is used.
 const memoryStorage = new MemoryStorage();
-conversationState = new ConversationState(memoryStorage);
-userState = new UserState(memoryStorage);
+conversationState = new ConversationState(blobStorage);
+userState = new UserState(blobStorage);
 
 // Create the main dialog.
-// const startedDialog = new StartedDialog(STARTED_DIALOG);
 const dialog = new MainDialog();
 const bot: DialogWelcomeBot = new DialogWelcomeBot(
   conversationState,
@@ -79,7 +80,6 @@ const onTurnErrorHandler = async (context, error) => {
   // NOTE: In production environment, you should consider logging this to Azure
   //       application insights.
   console.error(`\n [onTurnError] unhandled error: ${ error }`);
-
   // Send a trace activity, which will be displayed in Bot Framework Emulator
   await context.sendTraceActivity(
       'OnTurnError Trace',
@@ -87,7 +87,6 @@ const onTurnErrorHandler = async (context, error) => {
       'https://www.botframework.com/schemas/error',
       'TurnError'
   );
-
   // Send a message to the user
   await context.sendActivity('The bot encountered an error or bug.');
   await context.sendActivity('To continue to run this bot, please fix the bot source code.');

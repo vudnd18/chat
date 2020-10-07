@@ -1,0 +1,1 @@
+{"version":3,"file":"messageMiddleware.js","sourceRoot":"","sources":["../../src/middleware/messageMiddleware.ts"],"names":[],"mappings":";;;;;;;;;;;;AAGA,MAAa,iBAAiB;IACf,MAAM,CAAC,OAAoB,EAAE,IAAyB;;YACjE,wBAAwB;YACxB,uDAAuD;YACvD,gHAAgH;YAChH,6DAA6D;YAC7D,IAAI;YACJ,MAAM,IAAI,EAAE,CAAC;QACf,CAAC;KAAA;CACF;AATD,8CASC"}
