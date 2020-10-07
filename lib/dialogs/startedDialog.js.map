@@ -1,1 +1,0 @@
-{"version":3,"file":"startedDialog.js","sourceRoot":"","sources":["../../src/dialogs/startedDialog.ts"],"names":[],"mappings":";;;AAAA,2DAU4B;AAG5B,MAAM,WAAW,GAAG,YAAY,CAAC;AAEjC,MAAa,aAAc,SAAQ,oCAAe;IAChD,YAAY,EAAU;QACpB,KAAK,CAAC,EAAE,CAAC,CAAC;QACV,IAAI,CAAC,SAAS,CAAC,IAAI,+BAAU,CAAC,WAAW,CAAC,CAAC,CAAC;IAC9C,CAAC;CACF;AALD,sCAKC"}
