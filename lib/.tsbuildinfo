@@ -676,92 +676,92 @@
         "signature": "c28b98fd7f8b33d14113b66b2c3da52ae20045b861dc34ca2ca902e5727d7507",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts": {
         "version": "f5e16b228edb3fb31808b042b315d3b33efc5f042d1e5dc319275c2b3e82656c",
         "signature": "f5e16b228edb3fb31808b042b315d3b33efc5f042d1e5dc319275c2b3e82656c",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts": {
         "version": "ad6c19b7d3bc96abd067c14737feb7aaf2c999e836e7dcb1edd78e78a35b4a99",
         "signature": "ad6c19b7d3bc96abd067c14737feb7aaf2c999e836e7dcb1edd78e78a35b4a99",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts": {
         "version": "cd2d251874facfdf28c058f8dd2735bd6aea7aa3eee7862bc78a188e2d13c5fb",
         "signature": "cd2d251874facfdf28c058f8dd2735bd6aea7aa3eee7862bc78a188e2d13c5fb",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts": {
         "version": "2d84cf417fd1aee4a22b72fe8c7f3082e77c65b96b2be4f3d28532ed97bc6cf3",
         "signature": "2d84cf417fd1aee4a22b72fe8c7f3082e77c65b96b2be4f3d28532ed97bc6cf3",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts": {
         "version": "35d4ecdd24d894a822e9df95d865fa42e1eb0594032eb12a41cfbe7cd81112f2",
         "signature": "35d4ecdd24d894a822e9df95d865fa42e1eb0594032eb12a41cfbe7cd81112f2",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts": {
         "version": "a3b319827b7b202c70cc3cb8c4ee71c9c7b613b7b291d35548549cc0f79dc1de",
         "signature": "a3b319827b7b202c70cc3cb8c4ee71c9c7b613b7b291d35548549cc0f79dc1de",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts": {
         "version": "549e3b5d92239573741a9cbb97f87eb9e1ef62a725301fae03a68539d8154575",
         "signature": "549e3b5d92239573741a9cbb97f87eb9e1ef62a725301fae03a68539d8154575",
         "affectsGlobalScope": true
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts": {
         "version": "378fa27e8b718a8256906bcce6ee45b94419796afa9df92918c1d565c5370b67",
         "signature": "378fa27e8b718a8256906bcce6ee45b94419796afa9df92918c1d565c5370b67",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts": {
         "version": "5a57d8b6790ade7dd14b533ff838c2a6fe3f70f13f6879b23cba1847a5a2bb1c",
         "signature": "5a57d8b6790ade7dd14b533ff838c2a6fe3f70f13f6879b23cba1847a5a2bb1c",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts": {
         "version": "becde0f2c732e06008d01aa4e103eba7154649e42d5e9487b1340adfb36adf15",
         "signature": "becde0f2c732e06008d01aa4e103eba7154649e42d5e9487b1340adfb36adf15",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts": {
         "version": "c373be75f6d807af0dd7c7b06b2db264430dd61048faa8a9e7739694f33db2ef",
         "signature": "c373be75f6d807af0dd7c7b06b2db264430dd61048faa8a9e7739694f33db2ef",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts": {
         "version": "b8a6ba34345f3c98f9d86b649b36a7184b863fdeb400cbb3e4bf9c129af1092b",
         "signature": "b8a6ba34345f3c98f9d86b649b36a7184b863fdeb400cbb3e4bf9c129af1092b",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts": {
         "version": "f0379eea3fc9618b2e070fbfe4156df59371f3fecd501b9aecc035bd920adab2",
         "signature": "f0379eea3fc9618b2e070fbfe4156df59371f3fecd501b9aecc035bd920adab2",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts": {
         "version": "0d34adfcc8c01877f6e267e677adb778e8419cc85ba68607d7566e39862236b8",
         "signature": "0d34adfcc8c01877f6e267e677adb778e8419cc85ba68607d7566e39862236b8",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts": {
         "version": "159982e504257585d9eb649b1e7cfc72cd211b2624185700a9b01e48fbc536f2",
         "signature": "159982e504257585d9eb649b1e7cfc72cd211b2624185700a9b01e48fbc536f2",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts": {
         "version": "8dd60f0ab0bbf437088ad9ecdcee19feddb763b829402f741cc7eb45f8e486d2",
         "signature": "8dd60f0ab0bbf437088ad9ecdcee19feddb763b829402f741cc7eb45f8e486d2",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts": {
         "version": "381efffdf10d89038c2da4f93af00c77378c0d542d48a41a22c4f1b59454f26d",
         "signature": "381efffdf10d89038c2da4f93af00c77378c0d542d48a41a22c4f1b59454f26d",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts": {
         "version": "ad7bd34764733d33bfebe014c11f6f16f99d037927099167e9c887f7f32e1fdb",
         "signature": "ad7bd34764733d33bfebe014c11f6f16f99d037927099167e9c887f7f32e1fdb",
         "affectsGlobalScope": false
@@ -771,112 +771,112 @@
         "signature": "888eabbf43a9595dd96f6ded60597ee6c05660f8cb90d95bc91d00e46855a52a",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/node_modules/axios/index.d.ts": {
+      "../node_modules/botframework-connector/node_modules/axios/index.d.ts": {
         "version": "e7df7eb51c5090db4bdcdbf9efe053530dff0e33796f40b08b1a3be6c3a351d0",
         "signature": "e7df7eb51c5090db4bdcdbf9efe053530dff0e33796f40b08b1a3be6c3a351d0",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts": {
         "version": "4988da5471791df6306c1ec8a6dda3939bb850a66a44ca339b3d42d678d85ce9",
         "signature": "4988da5471791df6306c1ec8a6dda3939bb850a66a44ca339b3d42d678d85ce9",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts": {
         "version": "9f99355c8f566041b3c833f3fec9da4ccc1e01ebba602a68090b198901d2307b",
         "signature": "9f99355c8f566041b3c833f3fec9da4ccc1e01ebba602a68090b198901d2307b",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts": {
         "version": "902fc55d13a7f7ae273f8e7d7c14eacb3e0c21e4f87f897a9b0c0ed7d9bfd048",
         "signature": "902fc55d13a7f7ae273f8e7d7c14eacb3e0c21e4f87f897a9b0c0ed7d9bfd048",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts": {
         "version": "90c036443009c9e6b0622056a4dea9a5145e65c78e3db65c5aef58ba6d0b722e",
         "signature": "90c036443009c9e6b0622056a4dea9a5145e65c78e3db65c5aef58ba6d0b722e",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts": {
         "version": "c48fd38153eafaf8de9e0c101cdd48d8bed9e9226969877d2e50809881402be0",
         "signature": "c48fd38153eafaf8de9e0c101cdd48d8bed9e9226969877d2e50809881402be0",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts": {
         "version": "33eee46d13ea91e9816d5812eefef7cd021c0f0587af64d9c3b2db34ac7159f7",
         "signature": "33eee46d13ea91e9816d5812eefef7cd021c0f0587af64d9c3b2db34ac7159f7",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts": {
         "version": "a30acede22f9148ed948671ed40cf58b244ce8970c2d67c9cb8de32492ef6a6b",
         "signature": "a30acede22f9148ed948671ed40cf58b244ce8970c2d67c9cb8de32492ef6a6b",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts": {
         "version": "8e592f0ca78b184811a36b81b12b868f3433bc2271d9dc6fa8708a23ad75829e",
         "signature": "8e592f0ca78b184811a36b81b12b868f3433bc2271d9dc6fa8708a23ad75829e",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts": {
         "version": "757c0fb4678d23aeaa44fb64d4c12fe8c7ff116ed60464619644cc52593fd19d",
         "signature": "757c0fb4678d23aeaa44fb64d4c12fe8c7ff116ed60464619644cc52593fd19d",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts": {
         "version": "6995c0b77c3341bc41a14d459432d78933bdb33e2950e5566683977160f34ffb",
         "signature": "6995c0b77c3341bc41a14d459432d78933bdb33e2950e5566683977160f34ffb",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts": {
         "version": "602b89aca25bf54884f669c47efd148f6b92641c81b65ee6798944c684f9fae5",
         "signature": "602b89aca25bf54884f669c47efd148f6b92641c81b65ee6798944c684f9fae5",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts": {
         "version": "4c53499501ad90b540f1dfafce2e935417e3c433785e631d27812cfd25d5094f",
         "signature": "4c53499501ad90b540f1dfafce2e935417e3c433785e631d27812cfd25d5094f",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts": {
         "version": "32cc31eadcd3d80ac4c7be91d96c611d6e7c56922b6ca6a7bdf1385e368dba6a",
         "signature": "32cc31eadcd3d80ac4c7be91d96c611d6e7c56922b6ca6a7bdf1385e368dba6a",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/url.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/url.d.ts": {
         "version": "f7ce4ba626bb1f89639f40ae5c703fdac0d096e034283d24049fee0304fd483f",
         "signature": "f7ce4ba626bb1f89639f40ae5c703fdac0d096e034283d24049fee0304fd483f",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts": {
         "version": "d15e80d9a9fcd1f275af19ae0499ca2a856bbf7f053fe23f7a5c106985a0c882",
         "signature": "d15e80d9a9fcd1f275af19ae0499ca2a856bbf7f053fe23f7a5c106985a0c882",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts": {
         "version": "25d045521e0bf9d65942f3c82121818ab9e1972f53dfe40bd8dc38a7890f11d6",
         "signature": "25d045521e0bf9d65942f3c82121818ab9e1972f53dfe40bd8dc38a7890f11d6",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts": {
         "version": "459c5dd4f6f664a6d9fbf9acbbadc1109382fd8e8ac9c24ab9672712270a93e7",
         "signature": "459c5dd4f6f664a6d9fbf9acbbadc1109382fd8e8ac9c24ab9672712270a93e7",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts": {
         "version": "a556225f73e0449b9a76c32c4cdb9246d076a844836667914f41149fcf3b4d41",
         "signature": "a556225f73e0449b9a76c32c4cdb9246d076a844836667914f41149fcf3b4d41",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts": {
         "version": "24feea5e0ceb9d7340dc1dae08df77514458165b32870bac428d9326b5554945",
         "signature": "24feea5e0ceb9d7340dc1dae08df77514458165b32870bac428d9326b5554945",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts": {
         "version": "9297f9da4f7221be5006d90891710b92226603c567bbe5827731717c6e8d7ad1",
         "signature": "9297f9da4f7221be5006d90891710b92226603c567bbe5827731717c6e8d7ad1",
         "affectsGlobalScope": false
       },
-      "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": {
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": {
         "version": "9816d2e628fa950b99c1cbdda6a4fa1c40e3c2680c2486bd8f6a2f87c8503b41",
         "signature": "9816d2e628fa950b99c1cbdda6a4fa1c40e3c2680c2486bd8f6a2f87c8503b41",
         "affectsGlobalScope": false
@@ -1421,6 +1421,11 @@
         "signature": "f6589b77fad0136c979abb97184672c8d4f9006c96b3a2258e39356d9c5d6792",
         "affectsGlobalScope": false
       },
+      "../node_modules/botbuilder/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": {
+        "version": "9816d2e628fa950b99c1cbdda6a4fa1c40e3c2680c2486bd8f6a2f87c8503b41",
+        "signature": "9816d2e628fa950b99c1cbdda6a4fa1c40e3c2680c2486bd8f6a2f87c8503b41",
+        "affectsGlobalScope": false
+      },
       "../node_modules/botbuilder/lib/streaming/streaminghttpclient.d.ts": {
         "version": "80bad70a5ef10abbfada640283e6f21d832f803d8dfca3c964c1e96ce89f8514",
         "signature": "80bad70a5ef10abbfada640283e6f21d832f803d8dfca3c964c1e96ce89f8514",
@@ -1836,6 +1841,11 @@
         "signature": "62a8eed22c5ae787c334d78adcadb03a4dacc4da98dd9d47dae2ff74c42c5ce5",
         "affectsGlobalScope": false
       },
+      "../node_modules/@azure/cognitiveservices-luis-runtime/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": {
+        "version": "9816d2e628fa950b99c1cbdda6a4fa1c40e3c2680c2486bd8f6a2f87c8503b41",
+        "signature": "9816d2e628fa950b99c1cbdda6a4fa1c40e3c2680c2486bd8f6a2f87c8503b41",
+        "affectsGlobalScope": false
+      },
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/index.d.ts": {
         "version": "98d6f3ba4541d8ac3181cd024c96777b4c5e7a9a1c9cdc0ba54391eb3866e47e",
         "signature": "98d6f3ba4541d8ac3181cd024c96777b4c5e7a9a1c9cdc0ba54391eb3866e47e",
@@ -2111,16 +2121,16 @@
         "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/index.d.ts",
         "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/mappers.d.ts",
         "../node_modules/@azure/cognitiveservices-luis-runtime/esm/operations/index.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/luisruntimeclientcontext.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/index.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/mappers.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/operations/index.d.ts": [
         "../node_modules/@azure/cognitiveservices-luis-runtime/esm/operations/prediction.d.ts"
@@ -2128,203 +2138,45 @@
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/operations/prediction.d.ts": [
         "../node_modules/@azure/cognitiveservices-luis-runtime/esm/luisruntimeclientcontext.d.ts",
         "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/index.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
-      "../node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
-        "../node_modules/@azure/ms-rest-js/node_modules/axios/index.d.ts",
-        "../node_modules/@types/node/index.d.ts",
-        "../node_modules/@types/node/ts3.1/http.d.ts",
-        "../node_modules/@types/node/ts3.1/https.d.ts",
-        "../node_modules/@types/tunnel/index.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
-        "../node_modules/@types/node/index.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-        "../node_modules/@types/node/index.d.ts"
+      "../node_modules/@azure/cognitiveservices-luis-runtime/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
       ],
       "../node_modules/@types/bunyan/index.d.ts": [
         "../node_modules/@types/node/index.d.ts",
@@ -3139,7 +2991,7 @@
         "../node_modules/botbuilder/lib/streaming/tokenresolver.d.ts"
       ],
       "../node_modules/botbuilder/lib/streaming/streaminghttpclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-streaming/lib/index.d.ts"
       ],
       "../node_modules/botbuilder/lib/streaming/tokenresolver.d.ts": [
@@ -3155,9 +3007,47 @@
       "../node_modules/botbuilder/lib/teamsinfo.d.ts": [
         "../node_modules/botbuilder-core/lib/index.d.ts"
       ],
+      "../node_modules/botbuilder/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
       "../node_modules/botframework-connector/lib/auth/appcredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
-        "../node_modules/adal-node/lib/adal.d.ts"
+        "../node_modules/adal-node/lib/adal.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/auth/authenticationconfiguration.d.ts": [
         "../node_modules/botframework-connector/lib/auth/claimsidentity.d.ts"
@@ -3227,33 +3117,33 @@
         "../node_modules/botframework-connector/lib/auth/credentialprovider.d.ts"
       ],
       "../node_modules/botframework-connector/lib/connectorapi/connectorclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/connectorapi/connectorclientcontext.d.ts",
         "../node_modules/botframework-connector/lib/connectorapi/models/index.d.ts",
         "../node_modules/botframework-connector/lib/connectorapi/models/mappers.d.ts",
-        "../node_modules/botframework-connector/lib/connectorapi/operations/index.d.ts"
+        "../node_modules/botframework-connector/lib/connectorapi/operations/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/connectorapi/connectorclientcontext.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
-        "../node_modules/botframework-connector/lib/connectorapi/models/index.d.ts"
+        "../node_modules/botframework-connector/lib/connectorapi/models/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/connectorapi/models/index.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/@types/node/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-schema/lib/index.d.ts"
       ],
       "../node_modules/botframework-connector/lib/connectorapi/models/mappers.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/connectorapi/operations/attachments.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/connectorapi/connectorclientcontext.d.ts",
-        "../node_modules/botframework-connector/lib/connectorapi/models/index.d.ts"
+        "../node_modules/botframework-connector/lib/connectorapi/models/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/connectorapi/operations/conversations.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/connectorapi/connectorclientcontext.d.ts",
-        "../node_modules/botframework-connector/lib/connectorapi/models/index.d.ts"
+        "../node_modules/botframework-connector/lib/connectorapi/models/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/connectorapi/operations/index.d.ts": [
         "../node_modules/botframework-connector/lib/connectorapi/operations/attachments.d.ts",
@@ -3278,43 +3168,43 @@
         "../node_modules/botframework-connector/lib/teams/teamsconnectorclientcontext.d.ts"
       ],
       "../node_modules/botframework-connector/lib/teams/models/index.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-schema/lib/index.d.ts"
       ],
       "../node_modules/botframework-connector/lib/teams/models/mappers.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/teams/operations/index.d.ts": [
         "../node_modules/botframework-connector/lib/teams/operations/teams.d.ts"
       ],
       "../node_modules/botframework-connector/lib/teams/operations/teams.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/teams/index.d.ts",
         "../node_modules/botframework-connector/lib/teams/models/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-schema/lib/index.d.ts"
       ],
       "../node_modules/botframework-connector/lib/teams/teamsconnectorclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/teams/models/index.d.ts",
         "../node_modules/botframework-connector/lib/teams/models/mappers.d.ts",
         "../node_modules/botframework-connector/lib/teams/operations/index.d.ts",
-        "../node_modules/botframework-connector/lib/teams/teamsconnectorclientcontext.d.ts"
+        "../node_modules/botframework-connector/lib/teams/teamsconnectorclientcontext.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/teams/teamsconnectorclientcontext.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
-        "../node_modules/botframework-connector/lib/teams/models/index.d.ts"
+        "../node_modules/botframework-connector/lib/teams/models/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/tokenapi/models/index.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-schema/lib/index.d.ts"
       ],
       "../node_modules/botframework-connector/lib/tokenapi/models/mappers.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/tokenapi/operations/botsignin.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/tokenapi/models/index.d.ts",
         "../node_modules/botframework-connector/lib/tokenapi/tokenapiclientcontext.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-schema/lib/index.d.ts"
       ],
       "../node_modules/botframework-connector/lib/tokenapi/operations/index.d.ts": [
@@ -3322,21 +3212,217 @@
         "../node_modules/botframework-connector/lib/tokenapi/operations/usertoken.d.ts"
       ],
       "../node_modules/botframework-connector/lib/tokenapi/operations/usertoken.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/tokenapi/models/index.d.ts",
         "../node_modules/botframework-connector/lib/tokenapi/tokenapiclientcontext.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-schema/lib/index.d.ts"
       ],
       "../node_modules/botframework-connector/lib/tokenapi/tokenapiclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/tokenapi/models/index.d.ts",
         "../node_modules/botframework-connector/lib/tokenapi/models/mappers.d.ts",
         "../node_modules/botframework-connector/lib/tokenapi/operations/index.d.ts",
-        "../node_modules/botframework-connector/lib/tokenapi/tokenapiclientcontext.d.ts"
+        "../node_modules/botframework-connector/lib/tokenapi/tokenapiclientcontext.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
       "../node_modules/botframework-connector/lib/tokenapi/tokenapiclientcontext.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
-        "../node_modules/botframework-connector/lib/tokenapi/models/index.d.ts"
+        "../node_modules/botframework-connector/lib/tokenapi/models/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/ts3.1/http.d.ts",
+        "../node_modules/@types/node/ts3.1/https.d.ts",
+        "../node_modules/@types/tunnel/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
+        "../node_modules/botframework-connector/node_modules/axios/index.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts"
       ],
       "../node_modules/botframework-schema/lib/activityinterfaces.d.ts": [
         "../node_modules/botframework-schema/lib/index.d.ts"
@@ -3669,201 +3755,43 @@
         "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/index.d.ts",
         "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts"
       ],
-      "../node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
-        "../node_modules/@types/node/index.d.ts",
-        "../node_modules/@types/node/ts3.1/http.d.ts",
-        "../node_modules/@types/node/ts3.1/https.d.ts",
-        "../node_modules/@types/tunnel/index.d.ts",
-        "../node_modules/axios/index.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
-        "../node_modules/@types/node/index.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
-      ],
-      "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts": [
-        "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-        "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-        "../node_modules/@types/node/index.d.ts"
+      "../node_modules/@azure/cognitiveservices-luis-runtime/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
       ],
       "../node_modules/@types/bunyan/index.d.ts": [
         "../node_modules/@types/node/index.d.ts",
@@ -4694,6 +4622,44 @@
       "../node_modules/botbuilder/lib/teamsinfo.d.ts": [
         "../node_modules/botbuilder-core/lib/index.d.ts"
       ],
+      "../node_modules/botbuilder/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
       "../node_modules/botframework-connector/lib/auth/appcredentials.d.ts": [
         "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/adal-node/lib/adal.d.ts"
@@ -4876,6 +4842,202 @@
       "../node_modules/botframework-connector/lib/tokenapi/tokenapiclientcontext.d.ts": [
         "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
         "../node_modules/botframework-connector/lib/tokenapi/models/index.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/ts3.1/http.d.ts",
+        "../node_modules/@types/node/ts3.1/https.d.ts",
+        "../node_modules/@types/tunnel/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
+        "../node_modules/botframework-connector/node_modules/axios/index.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts": [
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts"
+      ],
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+        "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts"
       ],
       "../node_modules/botframework-schema/lib/activityinterfaces.d.ts": [
         "../node_modules/botframework-schema/lib/index.d.ts"
@@ -5168,47 +5330,8 @@
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/models/mappers.d.ts",
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/operations/index.d.ts",
       "../node_modules/@azure/cognitiveservices-luis-runtime/esm/operations/prediction.d.ts",
+      "../node_modules/@azure/cognitiveservices-luis-runtime/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
       "../node_modules/@azure/cosmos/dist/types/latest/index.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
-      "../node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
-      "../node_modules/@azure/ms-rest-js/node_modules/axios/index.d.ts",
       "../node_modules/@types/bunyan/index.d.ts",
       "../node_modules/@types/color-name/index.d.ts",
       "../node_modules/@types/debug/index.d.ts",
@@ -5429,6 +5552,7 @@
       "../node_modules/botbuilder/lib/teamsactivityhandler.d.ts",
       "../node_modules/botbuilder/lib/teamsactivityhelpers.d.ts",
       "../node_modules/botbuilder/lib/teamsinfo.d.ts",
+      "../node_modules/botbuilder/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
       "../node_modules/botframework-connector/lib/auth/appcredentials.d.ts",
       "../node_modules/botframework-connector/lib/auth/authenticationconfiguration.d.ts",
       "../node_modules/botframework-connector/lib/auth/authenticationconstants.d.ts",
@@ -5470,6 +5594,46 @@
       "../node_modules/botframework-connector/lib/tokenapi/operations/usertoken.d.ts",
       "../node_modules/botframework-connector/lib/tokenapi/tokenapiclient.d.ts",
       "../node_modules/botframework-connector/lib/tokenapi/tokenapiclientcontext.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/axioshttpclient.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/apikeycredentials.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/basicauthenticationcredentials.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/credentials.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/domaincredentials.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/serviceclientcredentials.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/tokencredentials.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/credentials/topiccredentials.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/defaulthttpclient.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpclient.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpheaders.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httpoperationresponse.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelinelogger.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/httppipelineloglevel.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/msrest.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationarguments.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationparameter.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationresponse.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/operationspec.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/deserializationpolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/exponentialretrypolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/generateclientrequestidpolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/logpolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/msrestuseragentpolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/proxypolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/redirectpolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/requestpolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/signingpolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/systemerrorretrypolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/throttlingretrypolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/policies/useragentpolicy.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/querycollectionformat.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/resterror.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serializer.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/serviceclient.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/url.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/constants.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/util/utils.d.ts",
+      "../node_modules/botframework-connector/node_modules/@azure/ms-rest-js/es/lib/webresource.d.ts",
+      "../node_modules/botframework-connector/node_modules/axios/index.d.ts",
       "../node_modules/botframework-schema/lib/activityinterfaces.d.ts",
       "../node_modules/botframework-schema/lib/calleridconstants.d.ts",
       "../node_modules/botframework-schema/lib/healthcheck.d.ts",
